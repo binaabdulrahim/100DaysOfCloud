@@ -52,7 +52,7 @@ You can assign up to two access keys per user (root user or IAM user). Having tw
 
 - Step 5 — Click on AWS Console Home --> Right side click on your account --> Security Credentials --> 
 
-![5](https://user-images.githubusercontent.com/41940176/147333285-58d0d56b-efd1-4d7d-a2d3-04ffac27e4a4.png)
+![5](https://user-images.githubusercontent.com/41940176/147334437-5a63a339-b510-400c-b565-6dac03107644.png)
 
 - Step 6 — Multi-Factor Authentication --> Activate MFA -> Virtual MFA device --> Follow instructions and download QR code --> Assign MFA. 
 
