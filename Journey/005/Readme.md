@@ -1,7 +1,7 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Host a simple static webpage with S3 and CloudFront
 
 ## Introduction
 

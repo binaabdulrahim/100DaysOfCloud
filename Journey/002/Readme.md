@@ -33,6 +33,7 @@ You can assign up to two access keys per user (root user or IAM user). Having tw
 - What are some good security practices for password policies? The default password policy enforces the following conditions:Minimum password length of 8 characters and a maximum length of 128 characters. Minimum of three of the following mix of character types: uppercase, lowercase, numbers, and ! @ # $ % ^ & * ( ) _ + - = [ ] { } | ' symbols. Not be identical to your AWS account name or email address
 
 
+<<<<<<< HEAD
 ### Via Console:
 - Step 1 — Sign into root account. Search bar --> IAM --> Users --> Add users. Pick Access key so we can use it via CLI and API. Press Next.
 
@@ -62,6 +63,37 @@ You can assign up to two access keys per user (root user or IAM user). Having tw
 
 
 - Step 2 — To verify that the step was done correctly. Type aws s3 ls --profile CloudSec. If you dont have any s3 buckets, you will not see anything but thats fine. 
+=======
+Via Console:
+### Step 1 — Sign into root account. Search bar --> IAM --> Users --> Add users. Pick Access key so we can use it via CLI and API. Press Next.
+
+![1](https://user-images.githubusercontent.com/41940176/147333276-03b1bba6-b7e6-4e5e-8bf9-d4c9d648c31b.png)
+
+### Step 2 — Create group --> Group name: AdministratorAccess managed policy to the new group --> create group --> next.
+
+![2](https://user-images.githubusercontent.com/41940176/147333278-87a2b81a-9c6c-4f7f-9e3d-f5dd2887b5d0.png)
+
+### Step 3 — Review page --> create user. 
+
+![3](https://user-images.githubusercontent.com/41940176/147333280-fe1afd5c-b237-4cbf-84cd-c944c3161b21.png)
+
+### Step 4 — Download the .csv file. Make sure to keep it somewhere safe. Because we are going to use this to login via CLI.
+
+![4](https://user-images.githubusercontent.com/41940176/147333282-0d0c8175-3441-4067-a3f3-4e864286fd28.png)
+
+### Step 5 — Click on AWS Console Home --> Right side click on your account --> Security Credentials --> 
+
+![5](https://user-images.githubusercontent.com/41940176/147333285-58d0d56b-efd1-4d7d-a2d3-04ffac27e4a4.png)
+
+### Step 6 — Multi-Factor Authentication --> Activate MFA -> Virtual MFA device --> Follow instructions and download QR code --> Assign MFA. 
+
+Via Cli:
+
+### Step 1 — In Console section, we create an admin user called CloudSec and downloaded the csv file. Open the csv file and open your terminal. In terminal, download aws cli. Then type: aws configure --profile CloudSec --> here is where the information from the csv file goes. 
+
+
+### Step 2 — To verify that the step was done correctly. Type aws s3 ls --profile CloudSec. If you dont have any s3 buckets, you will not see anything but thats fine. 
+>>>>>>> day2
 ## ☁️ Cloud Outcome
 
 
