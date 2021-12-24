@@ -1,7 +1,7 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Use a managed Config Rule
 
 ## Introduction
 
@@ -9,7 +9,12 @@
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- What is AWS Config? Provides an inventory of AWS resources and a history of configureation changes to these resources. By using AWS Config to evaluate your resource configurations, you can assess how well your resource configurations comply with internal practices, industry guidelines, and regulations. You can create up to 250 AWS Config rules per region in your account.
+
+- What does an AWS Config rule do? Use AWS Config to evaluate the configuration settings of your AWS resources. You do this by creating AWS Config rules, which represent your ideal configuration settings. AWS Config provides customizable, predefined rules called managed rules to help you get started. While AWS Config continuously tracks the configuration changes that occur among your resources, it checks whether these changes violate any of the conditions in your rules. If a resource violates a rule, AWS Config flags the resource and the rule as noncompliant.
+
+- What is remediation in the context of a config rule?
+
 
 ## Use Case
 
@@ -50,3 +55,9 @@
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
 [link](link)
+Update them from Software Update in System Preferences or run:
+  softwareupdate --all --install --force
+
+If that doesn't show you any updates, run:
+  sudo rm -rf /Library/Developer/CommandLineTools
+  sudo xcode-select --install

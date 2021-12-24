@@ -14,23 +14,23 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Bina's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi, I am Bina! I'm a Cloud Security Engineer looking to better my skills and learn from community. 
 
-[✍️ Tell us why you started this challenge]
+I started the challenege to continue my cloud learning journey.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I'd like to complete AwS Cloud Certificates. 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/binaabdulrahim)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/binaabdulrahim/)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 1 > [My 1st Day](Journey/001/Readme.md)
+- [ ] ☁️ 2 > [My 2nd Day](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [My 3rd Day](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [My 4th Day](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)

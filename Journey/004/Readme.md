@@ -1,7 +1,7 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+#  Launch a Hello World website on the internet
 
 ## Introduction
 
@@ -9,7 +9,18 @@
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- What is a region?
+- What is an availability zone?
+- What is a public subnet?
+- How many subnets can there be in one region?
+- How to launch EC2 instances in public / private subnets?
+- What are AMIs?
+- What are security groups?
+- What are inbound/outbound rules?
+- what is deny By default rule in security groups?
+- How to allow access to EC2 from security groups?
+- How to connect to EC2 instances from your machine?
+- How to setup your simple static site with ec2?
 
 ## Use Case
 
