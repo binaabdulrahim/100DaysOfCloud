@@ -1,49 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![Pink Fun Cloud Mental Health Therapy Games Logo (1)](https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif)
 
 # Create an S3 Bucket and store an object in it
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+* Each bucket's name has to be unique globally, across every single bucket in the world.
+* Try to get the URL for the object you uploaded in this task and access it using a browser, you should get an access denied error
+* Do not store sensitive information in a bucket that has public access.
+* Do not turn on versioning on this bucket, it will be difficult to delete.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- What is Simple Storage Service (S3)?
+- What is a bucket?
+- What is object storage? 
+- How is object storage different than block storage?
+- What is the maximum amount of data that you can store in an S3 bucket?
+- What is the maximum file size you can store in an S3 bucket?
+- By default, are objects in an S3 bucket public?
+- What are the security best practices regarding S3 buckets?
+- What is an S3 bucket policy?
+- What are storage classes in S3?
+- How is a bucket policy different from an IAM policy?
 
-## Use Case
+## Steps
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
+- Step 1 — Using the cli, create an S3 bucket name: day8-bucket
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
+- Step 2 — Upload an object (any file) into the bucket
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- Step 3 — Delete the bucket when you are done: aws s3 rb s3://<unique-bucket-name>
 
 ## Social Proof
 

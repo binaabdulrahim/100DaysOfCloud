@@ -10,9 +10,7 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+![Pink Fun Cloud Mental Health Therapy Games Logo (1)](https://user-images.githubusercontent.com/41940176/147340937-89bd90d7-5096-40fe-943b-7bdc8551930a.gif)
 
 ## Bina's Cloud Journey
 
@@ -31,25 +29,25 @@ I'd like to complete AwS Cloud Certificates.
 - [ ] ☁️ 2 > [My 2nd Day](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [My 3rd Day](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [My 4th Day](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 5 > [My 5th Day](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [My 6th Day](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [My 7th Day](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [My 8th Day](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [My 9th Day](Journey/009/Readme.md)
+- [ ] ☁️ 10 >[My 10th Day](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 11 > [My 11th Day](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [My 12th Day](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [My 13th Day](Journey/013/Readme.md)
+- [ ] ☁️ 14 > [My 14th Day](Journey/014/Readme.md)
+- [ ] ☁️ 15 > [My 15th Day](Journey/015/Readme.md)
+- [ ] ☁️ 16 > [My 16th Day](Journey/016/Readme.md)
+- [ ] ☁️ 17 > [My 17th Day](Journey/017/Readme.md)
+- [ ] ☁️ 18 > [My 18th Day](Journey/018/Readme.md)
+- [ ] ☁️ 19 > [My 19th Day](Journey/019/Readme.md)
+- [ ] ☁️ 20 > [My 20th Day](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
