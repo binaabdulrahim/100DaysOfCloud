@@ -9,10 +9,10 @@
 
 ## Prerequisite
 
-✍️ Install Boto3
-Install AWS CLI
-AM User or Role with Programmatic access & appropriate permissions
-Configure AWS Cli 
+✍️ Install Boto3,
+Install AWS CLI,
+AM User or Role with Programmatic access & appropriate,permissions,
+Configure AWS Cli,
 
 ## Use Case
 
