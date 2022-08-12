@@ -1,20 +1,22 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# How to create S3 Bucket using Boto3?
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Boto3 is AWS Python SDK. It allows you to directly create, update, and delete AWS resources from pythonn scripts. Fun fact: AWS Cli uses boto itself. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ Install Boto3
+✍️ Install AWS CLI
+✍️ IAM User or Role with Programmatic access & appropriate permissions
+✍️ Configure AWS Cli 
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- 🖼️ Learn how to create s3 bucket, list all buckets, list all objects in a buckets, and find s3 creation date using boto3
 
 ## Cloud Research
 
